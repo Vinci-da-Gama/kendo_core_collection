@@ -1,0 +1,2 @@
+# kendo_core_collection
+kendo_core_collection
