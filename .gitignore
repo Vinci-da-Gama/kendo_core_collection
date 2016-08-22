@@ -1,5 +1,11 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+bin/
+.DS_Store
+.AppleDouble
+.gitignore
+.bowerrc
+bower-Polymer-commands.txt
+npm-command.txt
+gulpfile.js
+lib
+node_modules
+npm-debug.log
